@@ -1,0 +1,9 @@
+*.bat text eol=crlf 
+*.png binary
+public/**/*.html linguist-vendored
+node_modules/* linguist-vendored
+Cargo.lock linguist-generated
+*.gif binary
+*.py linguist-detectable
+**/*.py linguist-detectable
+public/*.html linguist-vendored
